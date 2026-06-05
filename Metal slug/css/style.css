@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'stalinistOne';
+    src: url('../fonts/StalinistOne-Regular.woff') format('woff');
+    color: rgb(255, 255, 255);
+}
+
+.fondo_1 {
+    background-image: url("../img/fondo_principal.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+} 
+
+.fondo_2 {
+    background-image: url("../img/fondor.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+} 
+
+.carrusel_1 {
+    background-image: url("../img/Fondos_web-01.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.carrusel_2{
+    background-image: url("../img/Fondos_web-02.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.carrusel_3{
+    background-image: url(../img/Fondos_web-03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.carrusel_4{
+    background-image: url(../img/Fondos_web-04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.carrusel_5{
+    background-image: url(../img/Fondos_web-05.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.caja-flotante {
+    float: left; /* O right */
+    width: 150px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 0);
+    margin: 10px;
+}
+
+.logo {
+    width: 590px;
+}
+
+.subtitulos-generales{
+    font-family: 'stalinistOne', sans-serif;
+}
+
+.gif-little{
+    width: 200px;
+}
+
+.gif-size{
+    width: 400px;
+}
