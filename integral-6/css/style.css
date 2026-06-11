@@ -4,6 +4,17 @@
     color: #006BB1;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden; /* Corta por completo el desborde horizontal */
+}
+
+@font-face {
+    font-family: 'PPmori';
+    src: url('../fonts/PPMori-Regular.woff') format('woff');
+    color: black;
+}
+
 .fondo_video {
     background-image: url(../img/vifon.mp4);
     position: relative;
@@ -13,8 +24,15 @@
     overflow: hidden;
 }
 
-.foo_tex{
-    
+.sb_tex{
+    font-family: 'PPmori' sans-serif;
+    font-size: 0.7rem;
+    color: #c8e3f5;
+}
+
+.foo_ti{
+    font-family: 'Exo' sans-serif;
+    font-size: 2.4rem;
 }
 
 .fondo_video video { 
@@ -22,6 +40,15 @@
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+.pe{
+    margin: 109px;
+}
+
+.pptext {
+    font-family: 'PPmori';
+    font-size: 0.9rem
 }
 
 .az-tex {
@@ -74,4 +101,119 @@
 
 iframe {
     border-radius: 2em;
+}
+
+.letrack{
+    letter-spacing: 1.1px
+}
+
+.tex_me{
+    font-family: 'Exo', sans-serif;
+    color: #ffffff;
+    font-size: 4rem;
+}
+
+.descrip_tx{
+    font-family:'PPmori', sans-serif;
+    color: #ffffff;
+    font-size: 1.2rem;
+}
+
+.tx_price{
+    font-family: 'Exo', sans-serif;
+    color: #ffffff;
+    font-size: 2rem;
+}
+
+.menu-taitel{
+    font-size: 6.5rem;
+    margin: 15px;
+}
+
+.carrusel_1 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_2 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_3 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_4 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_5 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_6 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.carrusel_7 {
+    background-image: url("../img/fon-car-11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+}
+
+.img_menu {
+    border-radius: 16px;
+}
+
+/* Posicionamiento de la barra de rombos */
+.posicion-rombos {
+    position: absolute;
+    bottom: -40px; /* Los sitúa justo por debajo del contenedor azul */
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    gap: 12px;
+    z-index: 15;
+}
+
+/* Transforma las barras por defecto de Bootstrap en rombos */
+.posicion-rombos .rombo-btn {
+    width: 12px !important;
+    height: 12px !important;
+    background-color: #ffffff !important;
+    border: none !important;
+    opacity: 0.4;
+    transform: rotate(45deg);
+    transition: all 0.3s ease;
+}
+
+/* Destaca el rombo de la hamburguesa que se está viendo */
+.posicion-rombos .rombo-btn.active {
+    opacity: 1 !important;
+    transform: rotate(45deg) scale(1.25);
 }
