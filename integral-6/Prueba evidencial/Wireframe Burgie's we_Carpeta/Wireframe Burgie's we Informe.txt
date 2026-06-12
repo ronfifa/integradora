@@ -1,0 +1,172 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Wireframe Burgie's we.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1920 px x 5350.9785 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+CuadradoDiscontinuo1.4.color1 (CMYK)
+Geométrico1.1.color1 (CMYK)
+Geométrico1.1.color2 (CMYK)
+Geométrico1.5.color1 (CMYK)
+Geométrico1.5.color2 (CMYK)
+Rombo1.3.color1 (CMYK)
+Rombo1.3.color2 (CMYK)
+Triángulo1.1.color1 (CMYK)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:
+ExoItalic Medium* (no instalada)
+ExoItalic ExtraBold* (no instalada)
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+PP Mori Extrabold (OTF)
+PP Mori Semibold (OTF)
+PP Mori (OTF)
+Exo ExtraBold (TrueType)
+Exo Medium (TrueType)
+Exo ExtraBold Italic (TrueType)
+Exo Bold Italic (TrueType)
+Exo Italic (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\pngwing.com (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4637K, 742 por 1600 píxeles
+Dimensiones: 1065.653 por 2297.904 puntos 
+Resolución: 50.133 por 50.133 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\pngwing.com (1).png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 4637K, 742 por 1600 píxeles
+Dimensiones: 1065.653 por 2297.904 puntos 
+Resolución: 50.133 por 50.133 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\Oklaoma.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 4218K, 1200 por 1200 píxeles
+Dimensiones: 894.952 por 894.952 puntos 
+Resolución: 96.542 por 96.542 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\Bacon Cheese.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3417K, 1080 por 1080 píxeles
+Dimensiones: 895 por 895 puntos 
+Resolución: 86.883 por 86.883 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Downloads\pexels-jonathanborba-18713429.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 19070K, 3125 por 2083 píxeles
+Dimensiones: 1925.013 por 1283.137 puntos 
+Resolución: 116.882 por 116.882 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\Boceto Preliminar_Carpeta\Links\Reel.psd
+Tipo: CMYK transparente
+Bits por píxel: 40
+Canales: 5
+Tamaño: 14150K, 1280 por 2264 píxeles
+Dimensiones: 523.702 por 926.298 puntos 
+Resolución: 175.978 por 175.978 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\hamburge.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1095K, 374 por 750 píxeles
+Dimensiones: 847.247 por 1699.025 puntos 
+Resolución: 31.783 por 31.783 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\hamburge.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1095K, 374 por 750 píxeles
+Dimensiones: 847.247 por 1699.025 puntos 
+Resolución: 31.783 por 31.783 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\hamburge.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1095K, 374 por 750 píxeles
+Dimensiones: 847.247 por 1699.025 puntos 
+Resolución: 31.783 por 31.783 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\TRufada.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3366K, 1080 por 1064 píxeles
+Dimensiones: 909.252 por 895.781 puntos 
+Resolución: 85.521 por 85.521 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\TRufada.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3366K, 1080 por 1064 píxeles
+Dimensiones: 909.252 por 895.781 puntos 
+Resolución: 85.521 por 85.521 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\TRufada.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3366K, 1080 por 1064 píxeles
+Dimensiones: 909.252 por 895.781 puntos 
+Resolución: 85.521 por 85.521 píxeles por pulgada
+
+
+C:\Users\Victus Rtx\Desktop\Gestalt\6to Semestre\Integral  6\Ai\burgs\onion.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 3417K, 1080 por 1080 píxeles
+Dimensiones: 895.781 por 895.781 puntos 
+Resolución: 86.807 por 86.807 píxeles por pulgada
